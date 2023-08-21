@@ -1,5 +1,13 @@
-# AZ-104---Training---Microsoft-Azure-Administrator
+![image](https://github.com/rramoscabral/AZ-104---Training---Microsoft-Azure-Administrator/assets/9170251/82ffa058-7d69-480e-8388-896f890ac68d)# AZ-104---Training---Microsoft-Azure-Administrator
 Training for Microsoft Official Course (MOC) AZ-104: Microsoft Azure Administrator
+
+
+
+AZ-104 Exam page - https://docs.microsoft.com/learn/certifications/exams/az-104
+AZ-104 Study guide with objective domain - https://learn.microsoft.com/certifications/resources/study-guides/az-104
+
+
+
 
 
 ### About the course
