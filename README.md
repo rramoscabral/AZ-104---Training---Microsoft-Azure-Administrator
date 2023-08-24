@@ -29,7 +29,7 @@ Earning Azure Administrator Associate certification validates the skills and kno
 
 # Companion Material and Resources for other Azure class Delivery
 
-- [AZ-204: Developing Solutions for Microsoft Azure](https://pl-100.rramoscabral.com)
+- [AZ-204: Developing Solutions for Microsoft Azure](https://az-204.rramoscabral.com)
 - [AZ-300: Microsoft Azure Architect Technologies](https://az-300.rramoscabral.com)
 - [AZ-400: Microsoft Azure DevOps Solutions](https://az-400.rramoscabral.com)
 - [AZ-801: Configuring Windows Server Hybrid Advanced Services](https://az-801.rramoscabral.com)
