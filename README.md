@@ -1,43 +1,39 @@
-![image](https://github.com/rramoscabral/AZ-104---Training---Microsoft-Azure-Administrator/assets/9170251/82ffa058-7d69-480e-8388-896f890ac68d)# AZ-104---Training---Microsoft-Azure-Administrator
+
+
+<a id="top" />
+
+# AZ-104 - Training - Microsoft Azure Administrator
+
+Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com).
+
 Training for Microsoft Official Course (MOC) AZ-104: Microsoft Azure Administrator
 
+The Microsoft Azure Administrator helps the IT Professionals how to implement, manage, and monitor an organization’s Microsoft Azure environment.
 
+Earning Azure Administrator Associate certification validates the skills and knowledge to implement, manage, and monitor an organization’s Microsoft Azure environment. Candidates have a deep understanding of each implementing, managing, and monitoring identity, governance, storage, compute, and virtual networks in a cloud environment, plus provision, size, monitor, and adjust resources, when needed.
 
-AZ-104 Exam page - https://docs.microsoft.com/learn/certifications/exams/az-104
-AZ-104 Study guide with objective domain - https://learn.microsoft.com/certifications/resources/study-guides/az-104
+- [About the course](./about-the-course.md)
+- [Exam certification](./exam.md)
+- [Hands-on Labs](./hands-on-labs.md)
+- [Software List for Hands-on Labs](./Lab-Setup.md)
+- [Tools](./tools.md)
+- [Resources](./resources.md)
 
-
-
-
-
-### About the course
-
-
-<br>
-
-### Azure command-line tools
-Manage your Azure services and apps using scripts from the command line.
-  * **Warning** : Azure PowerShell “Az” module will replace “AzureRM” module. The current version of some Az modules is not compatible with the older AzureRM modules.
 
 
 <br>
 
-### Microsoft Labs and Workshops
- * [Lift and shift/Azure Resource Manager, Microsoft](https://github.com/Microsoft/MCW-Lift-and-shift-Azure-Resource-Manager)
- * [Linux lift and shift, Microsoft](https://github.com/Microsoft/MCW-Linux-Lift-and-Shift)
- * [Securing PaaS, Microsoft](https://github.com/Microsoft/MCW-Securing-PaaS)
- 
- 
-<br> 
- 
-### Microsoft Samples
+---
 
+<a id="othertraining" />
 
-<br>
+# Companion Material and Resources for other Azure class Delivery
 
-### Resources
+- [AZ-204: Developing Solutions for Microsoft Azure](https://pl-100.rramoscabral.com)
+- [AZ-300: Microsoft Azure Architect Technologies](https://az-300.rramoscabral.com)
+- [AZ-400: Microsoft Azure DevOps Solutions](https://az-400.rramoscabral.com)
+- [AZ-801: Configuring Windows Server Hybrid Advanced Services](https://az-801.rramoscabral.com)
 
+<br/>
 
-<br>
-
-#### Free eBooks
+---
