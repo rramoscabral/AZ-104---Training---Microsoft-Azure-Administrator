@@ -18,7 +18,7 @@ Earning Azure Administrator Associate certification validates the skills and kno
 - [Software List for Hands-on Labs](./Lab-Setup.md)
 - [Tools](./tools.md)
 - [Resources](./resources.md)
-
+- Test your knowledge [Questions](./Test_your_knowledge_questions.md) [Answers](./Test_your_knowledge_answers.md)
 
 
 <br>

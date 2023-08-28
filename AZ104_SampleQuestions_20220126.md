@@ -605,8 +605,8 @@ You need to ensure that the users can access the departmental file shares.
 
 Which two types of groups should you use? Each correct presents a complete solution. 
 
-1. a security group that uses the dynamic membership type 
-1. a Microsoft 365 group that uses the dynamic membership type 
+1. :heavy_check_mark: a security group that uses the dynamic membership type 
+1. :heavy_check_mark: a Microsoft 365 group that uses the dynamic membership type 
 1. a distribution group that uses the dynamic membership type 
 1. a security group that uses the assigned membership type 
 1. a Microsoft 365 group that uses the assigned membership type 
@@ -637,7 +637,7 @@ You need to ensure that a user named User1 can review all the settings of the te
 Which role should you assign to User1? 
 
 1. Directory reader 
-1. Security reader 
+1. :heavy_check_mark: Security reader 
 1. Reports reader 
 1. Global reader 
 
@@ -667,7 +667,7 @@ You deploy a development Azure Active Directory (AD) tenant, and then you create
 
 You need to copy the roles to the production tenant. What should you do first? 
 
-1. From the development tenant, export the custom roles to JSON. 
+1. :heavy_check_mark: From the development tenant, export the custom roles to JSON. 
 1. From the production tenant, create a new custom role. 
 1. From the development tenant, perform a backup. 
 1. From the production tenant, create an administrative unit. 
@@ -696,7 +696,7 @@ You have an Azure subscription that contains several hundred virtual machines. Y
 
 What should you use? 
 
-1. Azure Advisor 
+1. :heavy_check_mark: Azure Advisor 
 1. Azure Monitor 
 1. Azure policies 
 
@@ -727,8 +727,8 @@ You have an Azure subscription that contains several hundred virtual machines. T
 
 You plan to apply resource tags for each department to the virtual machines. Which two solutions should you use? Each correct presents a complete solution. 
 
-1. PowerShell 
-1. Azure Resource Manager (ARM) templates 
+1. :heavy_check_mark: PowerShell 
+1. :heavy_check_mark: Azure Resource Manager (ARM) templates 
 1. app registrations 
 1. Azure Advisor 
 
@@ -755,7 +755,7 @@ You have an Azure subscription that contains the storage accounts shown in the f
 You need to identify which storage accounts can be switched to geo-redundant storage (GRS). Which storage accounts should you identify? 
 
 1. storage1 only 
-1. storage2 only 
+1. :heavy_check_mark: storage2 only 
 1. storage3 only 
 1. storage4 only 
 1. storage1 and storage4 only 
@@ -774,7 +774,7 @@ You have an Azure subscription that contains several Azure runbooks. The runbook
 You need to replace the authentication solution with a more secure solution. What should you use? 
 
 1. Azure Active Directory (Azure AD) Identity Protection 
-1. Azure Key Vault 
+1. :heavy_check_mark: Azure Key Vault 
 1. an access policy 
 1. an administrative unit 
 
@@ -804,7 +804,7 @@ You need to use the Azure CLI to remove RG1 and all its resources, without requi
 
 Which command should you use? 
 
-1. az group delete --name rg1 --no-wait --yes 
+1. :heavy_check_mark: az group delete --name rg1 --no-wait --yes 
 1. az group deployment delete --name rg1 --no-wait 
 1. az group update --name rg1 --remove 
 1. az group wait –deleted –resource-group rg1 
@@ -838,7 +838,7 @@ From the Azure portal, you open the blade for VM1. What should you do next?
 1. Select **Capture**. 
 1. Select **Availability and scaling**. 
 1. Select **Redeploy + reapply**. 
-1. Select **Export template**. 
+1. :heavy_check_mark: Select **Export template**. 
 
 
 
@@ -870,7 +870,7 @@ You verify the domain ownership.
 Which DNS record should you use next? 
 
 1. SRV 
-1. CNAME 
+1. :heavy_check_mark: CNAME 
 1. TXT 
 1. PTR 
 
@@ -904,7 +904,7 @@ Which setting should you modify for vault1?
 
 1. Keys 
 1. Secrets 
-1. Access policies 
+1. :heavy_check_mark: Access policies 
 1. Security 
 
 
@@ -941,11 +941,11 @@ You have an Azure subscription that contains the resources shown in the followin
 
 Which two resources can you back up to a Recovery Services vault? Each correct presents part of the solution. 
 
-1. VM1 
+1. :heavy_check_mark: VM1 
 1. Blob1 
 1. Disk1 
 1. Share1 
-1. Database1 
+1. :heavy_check_mark: Database1 
 
 
 
@@ -1094,7 +1094,7 @@ Contoso must meet the following security requirements:
 **Answer the following question based on the information presented in the case study.** 
 
 A. Admin1 only 
-B. Admin2 only 
+B. :heavy_check_mark: Admin2 only 
 C. Admin3 only 
 D. Admin1 and Admin2 only 
 E. Admin1 and Admin3 only 
@@ -1131,7 +1131,7 @@ You need to implement the planned changes for User1 and User2. What should you d
 A. Create two new resource groups. 
 B. Create two new management groups. 
 C. Create two new named locations. 
-D. Create two new administrative units. 
+D. :heavy_check_mark: Create two new administrative units. 
 
 
 
@@ -1165,7 +1165,7 @@ D. Create two new administrative units.
 You need to implement the planned changes for Disk1. What should you do first? 
 
 1. Add ContosoSub1 and ContosoSub2 to a new management group. 
-1. Remove Lock1 from ResourceGroup1. 
+1. :heavy_check_mark: Remove Lock1 from ResourceGroup1. 
 1. Modify the RG:1 tag. 
 1. Remove Lock2 from ResourceGroup2. 
 
@@ -1213,7 +1213,7 @@ Which storage accounts meet the technical requirements?
 
 1. ContosoStorage1 and ContosoStorage4 only 
 1. ContosoStorage2 and ContosoStorage3 only 
-1. ContosoStorage1 and ContosoStorage3 only 
+1. :heavy_check_mark: ContosoStorage1 and ContosoStorage3 only 
 1. ContosoStorage2 and ContosoStorage4 only 
 
 
@@ -1251,7 +1251,7 @@ What should you do?
 1. Set a rotation reminder for the access keys. 
 1. Configure a lifecycle management rule. 
 1. Create a new access review. 
-1. Generate a shared access signature (SAS). 
+1. :heavy_check_mark: Generate a shared access signature (SAS). 
 
 
 
@@ -1292,7 +1292,7 @@ You need to implement the planned changes for Vnet1 and Vnet2. What should you d
 1. Move Vnet1 to the East US Azure region. 
 1. Move Vnet2 to the ContosoSub1 subscription. 
 1. Modify the tag for Vnet2 
-1. Modify the address space for Vnet1. 
+1. :heavy_check_mark: Modify the address space for Vnet1. 
 
 
 
@@ -1336,7 +1336,7 @@ You need to implement the planned changes for Vnet1 and Vnet2. What should you d
 Before you deploy DevVM1, you need to consider the technical and security requirements. What should you do to ensure that access to DevVM1 is secure? 
 
 1. Install the Azure Virtual Desktop client on all the devices that will connect to DevVM1. 
-1. Deploy the Azure Bastion service. 
+1. :heavy_check_mark: Deploy the Azure Bastion service. 
 1. Configure Remote Desktop Gateway on all the devices that will connect to DevVM1. 
 1. Configure the Azure Network Watcher service. 
 
@@ -1366,7 +1366,7 @@ Which Recovery Services vault can be configured to use locally-redundant storage
 
 1. Rsv1 only 
 1. Rsv2 only 
-1. Rsv3 only 
+1. :heavy_check_mark: Rsv3 only 
 1. Rsv1 and Rsv2 only 
 1. Rsv1, Rsv2, and Rsv3 
 
