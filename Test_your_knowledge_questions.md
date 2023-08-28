@@ -67,12 +67,12 @@ You are creating a new custom role by using the following JSON.
   "Description": "Custom Role description",   
   "Actions": [
     "Microsoft.Compute/*/read",
-    “Microsoft.Compute/snapshots/write”,
-    “Microsoft.Compute/snapshots/read”,
+    "Microsoft.Compute/snapshots/write",
+    "Microsoft.Compute/snapshots/read",
     "Microsoft.Support/*"
   ],
   "NotActions": [   
-          “Microsoft.Compute/snapshots/delete”   
+          "Microsoft.Compute/snapshots/delete"   
   ],
   "AssignableScopes": [
     "/subscriptions/00000000-0000-0000-0000-000000000000",
