@@ -129,7 +129,7 @@ You can access demo tests for free. Each demo is a short version of the complete
 
 
 You can buy the practice test at:
-- [Measureup](https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html).
+- [Measureup](https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html#u5).
 - [Mindhub](https://eu1.mindhub.com/az-104-microsoft-azure-administrator-microsoft-official-practice-test/p/MU-AZ-104).
 
 
