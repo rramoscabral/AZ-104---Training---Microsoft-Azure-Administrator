@@ -1,12 +1,12 @@
-title: "Training course for Microsoft AI-102"
-description: "Companion material and resources for the course 'AI-102: Designing and Implementing a Microsoft Azure AI Solution' delivery by Ricardo Cabral." 
-url: "https://ai120.rramoscabral.com/" 
-repository: "https://github.com/rramoscabral/AI-102---Training---Designing-and-Implementing-a-Microsoft-Azure-AI-Solution"
+title: "Training course for Microsoft AZ-104"
+description: "Companion material and resources for the course 'AZ-104: Microsoft Azure Administrator' delivery by Ricardo Cabral." 
+url: "https://az-104.rramoscabral.com/" 
+repository: "https://github.com/rramoscabral/AZ-104---Training---Microsoft-Azure-Administrator"
 theme: just-the-docs
 
 aux_links:
   "Companion Material and Resources for Class Delivery by Ricardo Cabral for Microsoft Course AI-102": 
-    - "https://ai120.rramoscabral.com/"
+    - "https://az-104.rramoscabral.com/"
 
 callouts_level: quiet # or loud
 callouts:
@@ -55,6 +55,6 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub."
-gh_edit_repository: "https://github.com/rramoscabral/AI-102---Training---Designing-and-Implementing-a-Microsoft-Azure-AI-Solution"
+gh_edit_repository: "https://github.com/rramoscabral/AZ-104---Training---Microsoft-Azure-Administrator"
 gh_edit_branch: "main" 
 gh_edit_view_mode: "tree"
