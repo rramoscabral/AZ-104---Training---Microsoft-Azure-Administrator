@@ -1,19 +1,33 @@
-<a id="top" />
-
-<br/>
-
-
-# AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution  
-
-Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution .
-
-<br/>
-
-## Description
-
-This course provides students with the fundamental knowledge and skillsto build AI infused applications that leverage Azure AI Services, Azure AI Search, and Azure OpenAI.
-
 ---
+layout: default
+title: 'About the Trainer'
+nav_order: 12
+
+has_children: false
+---
+
+# About the Trainer
+{: .no_toc }
+
+
+<p align="center">
+  <img src="https://rramoscabral.com/assets/imgs/ricardocabral.jpg" alt="Ricardo Cabral Photo"/>
+</p>
+
+
+
+
+### Hi there 👋
+
+[Ricardo Cabral](https://rramoscabral.com/) is a Microsoft Certified Trainer (MCT) currently residing in Portugal having worked in both administration and development roles with 20+ years of experience in IT management, development, and projects.
+
+He has extensive experience on Microsoft 365, Microsoft Artificial Intelligence (AI) Solutions, Microsoft Azure, Microsoft Azure DevOps, Microsoft Power Platform, Microsoft Windows Server & Client, Programing language C# and holds several Microsoft certifications.
+
+Now works as Azure Solutions Architect, IT consultant, and IT trainer at [NWORKIT Digital Solutions](https://www.nworkit.pt).
+
+In his free time, he is actively participating, volunteering, speaking and organizing technical community meetings. 
+
+
 
 <!-- followme -->
 
@@ -46,8 +60,5 @@ This course provides students with the fundamental knowledge and skillsto build 
 </div>
 
 
-<br/>
 
----
-
-<br/>
+<br>

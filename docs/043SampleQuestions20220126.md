@@ -1,16 +1,25 @@
+---
+layout: default
+title: 'Exam Sample Questions'
+parent: 'Exam certification'
+nav_order: 3
+has_children: false
+---
+
+# AZ-104 Microsoft Azure Administrator Sample Questions 
+
+{: .no_toc }
+
+<br/>
+
 <a id="top" />
 
-<br/>
-
-[**Back to Exam certification**](./exam.md) | [**Back to main**](./README.md)
-
-<br/>
 
 ---
 
-AZ-104 Microsoft Azure Administrator Sample Questions 
+**AZ-104 Microsoft Azure Administrator Sample Questions** 
 
-Last updated: 2022/01/26 
+**Last updated:** 2022/01/26 
 
 
 Microsoft is exploring the possibility of providing sample questions as an exam preparation resource, and we would like your feedback. 
@@ -43,7 +52,7 @@ Which two types of groups should you use? Each correct presents a complete solut
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -61,7 +70,7 @@ Which role should you assign to User1?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -81,7 +90,7 @@ You need to copy the roles to the production tenant. What should you do first?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -97,7 +106,7 @@ What should you use?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -118,7 +127,7 @@ You plan to apply resource tags for each department to the virtual machines. Whi
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -147,7 +156,7 @@ You need to identify which storage accounts can be switched to geo-redundant sto
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -164,7 +173,7 @@ You need to replace the authentication solution with a more secure solution. Wha
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -185,7 +194,7 @@ Which command should you use?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -204,7 +213,7 @@ From the Azure portal, you open the blade for VM1. What should you do next?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -226,7 +235,7 @@ Which DNS record should you use next?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -250,7 +259,7 @@ Which setting should you modify for vault1?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -279,7 +288,7 @@ Which two resources can you back up to a Recovery Services vault? Each correct p
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -402,7 +411,7 @@ Contoso must meet the following security requirements:
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -421,7 +430,7 @@ Which administrator can implement the planned changes for the new employees?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -440,7 +449,7 @@ What should you do first?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -460,7 +469,7 @@ What should you do first?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -487,7 +496,7 @@ What should you do first?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -514,7 +523,7 @@ Which storage accounts meet the technical requirements?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -536,7 +545,7 @@ What should you do?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -555,7 +564,7 @@ You need to implement the planned changes for Vnet1 and Vnet2. What should you d
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -572,7 +581,7 @@ You need to implement the planned changes for Vnet1 and Vnet2. What should you d
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -623,7 +632,7 @@ Which two types of groups should you use? Each correct presents a complete solut
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -653,7 +662,7 @@ Which role should you assign to User1?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -685,7 +694,7 @@ You need to copy the roles to the production tenant. What should you do first?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -713,7 +722,7 @@ What should you use?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -791,7 +800,7 @@ You need to replace the authentication solution with a more secure solution. Wha
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -821,7 +830,7 @@ Which command should you use?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -853,7 +862,7 @@ From the Azure portal, you open the blade for VM1. What should you do next?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -886,7 +895,7 @@ Which DNS record should you use next?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -919,7 +928,7 @@ Which setting should you modify for vault1?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -959,7 +968,7 @@ Which two resources can you back up to a Recovery Services vault? Each correct p
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -1084,7 +1093,7 @@ Contoso must meet the following security requirements:
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -1117,7 +1126,7 @@ E. Admin1 and Admin3 only
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -1152,7 +1161,7 @@ D. :heavy_check_mark: Create two new administrative units.
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -1200,7 +1209,7 @@ You need to implement the planned changes for Disk1. What should you do first?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -1234,7 +1243,7 @@ Which storage accounts meet the technical requirements?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -1277,7 +1286,7 @@ What should you do?
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -1325,7 +1334,7 @@ You need to implement the planned changes for Vnet1 and Vnet2. What should you d
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -1352,7 +1361,7 @@ Before you deploy DevVM1, you need to consider the technical and security requir
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top) 
 
 <br/>
 
@@ -1384,3 +1393,8 @@ Which Recovery Services vault can be configured to use locally-redundant storage
 <tr><td colspan="5"></td></tr>
 </table>
 
+<br/>
+
+[Return to top](#top) 
+
+<br/>

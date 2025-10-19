@@ -1,10 +1,31 @@
+---
+layout: default
+title: 'Training Contents Setember 2023'
+nav_order: 2
+has_children: false
+parent: 'Training Contents'
+---
+
+# Training Contents Setember 2023
+{: .no_toc }
+
+Training Contents Setember 2023
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<br/>
+
+---
+
+
 <a id="top" />
 
 <br/>
 
-[**Back to about the course**](./about-the-course.md) | [**Back to main**](./README.md)
-
-<br/>
 
 ---
 
@@ -12,7 +33,7 @@
 
 <a id="course-outline" />
 
-## 2023 Course outline
+## Setember 2023 Course outline
 
 <br/>
 
@@ -37,5 +58,3 @@
 ---
 
 <br/>
-
-[**Return to top**](#top) | [**back to about the course**](./about-the-course.md) | [**Back to main**](./README.md)

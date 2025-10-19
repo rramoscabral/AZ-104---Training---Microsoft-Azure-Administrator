@@ -1,9 +1,8 @@
-<a id="top" />
-
-<br/>
-
-[**Back to main**](./README.md)
-
+---
+layout: default
+title: Exam certification
+nav_order: 4
+has_children: false
 ---
 
 ## Exam certification
@@ -21,9 +20,7 @@
 - [Exam Polices and FAQ](#exam-polices-and-faq)
 
 
-<br/>
 
-[**Back to main**](README.md)
 
 <br/>
 
@@ -51,7 +48,7 @@ The Microsoft poster Certified is available [**here**](https://aka.ms/TrainCertP
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top)
 
 <br/>
 
@@ -69,7 +66,7 @@ Review the AZ-104 study guide to help you prepare for the exam [**here**](https:
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top)
 
 <br/>
 
@@ -77,7 +74,7 @@ Review the AZ-104 study guide to help you prepare for the exam [**here**](https:
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top)
 
 <br/>
 
@@ -99,7 +96,7 @@ Take a free practice assessment and sample questions from Microsoft Learning you
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top)
 
 <br/>
 
@@ -119,7 +116,7 @@ They offer the official practice test, certKit, assessment, video training or bu
 The practice test is designed to help candidates prepare for and pass the Microsoft exam.
 
 You can access demo tests for free. Each demo is a short version of the complete practice test, and it allows you to see the features and functionality of the test before you make your purchase.
-  1. Access [www.measureup.com](https://www.measureup.com).
+  1. Access [www.measureup.com](https://www.measureup.com#u5).
   1. Hover the mouse over Sign in, and click on SIGN IN.
   1. Type your username and password, and click on Sign in.
   1. On the top menu, hover the mouse over Account, and click on My Learning Locker.
@@ -129,14 +126,14 @@ You can access demo tests for free. Each demo is a short version of the complete
 
 
 You can buy the practice test at:
-- [Measureup](https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html).
+- [Measureup](https://www.measureup.com/microsoft-practice-test-az-104-microsoft-azure-administrator.html#u5).
 - [Mindhub](https://eu1.mindhub.com/az-104-microsoft-azure-administrator-microsoft-official-practice-test/p/MU-AZ-104).
 
 
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top)
 
 <br/>
 
@@ -152,7 +149,7 @@ For more informations about the exam scoring and score reports is available [**h
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top)
 
 <br/>
 
@@ -175,7 +172,7 @@ As a result, using this sandbox should better prepare you for the exam experienc
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top)
 
 <br/>
 
@@ -216,7 +213,7 @@ If you want to take an online exam **run system test** before you register for a
 
 <br/>
 
-[Return to top](#top) | [Back to main](./README.md)
+[Return to top](#top)
 
 <br/>
 

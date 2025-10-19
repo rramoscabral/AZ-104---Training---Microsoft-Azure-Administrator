@@ -1,9 +1,25 @@
+---
+layout: default
+title: 'Test your knowledge - Questions
+parent: 'Exam certification'
+nav_order: 1
+has_children: false
+---
+
+# Test your knowledge - Answers
+
+{: .no_toc }
+
+<br/>
+
+<a id="top" />
+
+
+---
 <a id="top" />
 
 <br/>
 
-
-[**Back to main**](./README.md)
 
 
 # Test your knowledge - Questions
@@ -44,7 +60,7 @@ What are roles and how to use them?
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -96,7 +112,7 @@ Select all answers that apply.
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -116,7 +132,7 @@ If there are many ways and tools to do this, which one do I use? Bicep, ARM Temp
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -172,7 +188,7 @@ Select only one answer.
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -200,7 +216,7 @@ What should you do?
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -220,7 +236,7 @@ What is Azure Storage Account Object Replication?
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 
 ---
@@ -249,7 +265,7 @@ If we have 2 VMSS autoscaling profiles one for "scaling using a metric" and anot
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 
 ---
@@ -269,7 +285,7 @@ If I want to make use of slots purely to get a zero downtime deployment, what do
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 
 ---
@@ -290,7 +306,7 @@ Can you backup your virtual machines to the cloud from your office?
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -313,4 +329,4 @@ When regulating access to an Azure Kubernetes service (AKS), are there other opt
 
 <br>
 
-[**Back to main**](./README.md)
+

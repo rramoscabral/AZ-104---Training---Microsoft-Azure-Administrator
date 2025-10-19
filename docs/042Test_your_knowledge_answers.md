@@ -1,9 +1,28 @@
+---
+layout: default
+title: 'Test your knowledge - Answers'
+parent: 'Exam certification'
+nav_order: 2
+has_children: false
+---
+
+# Test your knowledge - Answers
+
+{: .no_toc }
+
+<br/>
+
+<a id="top" />
+
+
+---
+
+
 <a id="top" />
 
 <br/>
 
 
-[**Back to main**](./README.md)
 
 
 # Test your knowledge - Answers
@@ -49,7 +68,7 @@ Role-Based Access Control (or RBAC) is the way you can configure access permissi
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -109,7 +128,7 @@ Source:
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -137,7 +156,7 @@ What is our strategy - single, or multi-cloud vendor?Are we already invested in 
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -259,7 +278,7 @@ Source:
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -293,7 +312,7 @@ What should you do?
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -317,7 +336,7 @@ In simpler terms, Azure's Object Replication allows you to specify exactly which
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 
 ---
@@ -371,7 +390,7 @@ Source:
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 
 ---
@@ -399,7 +418,7 @@ Source: [Set up staging environments - Azure App Service | Microsoft Learn](http
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 
 ---
@@ -427,7 +446,7 @@ Source: https://learn.microsoft.com/en-us/azure/backup/install-mars-agent
 
 ---
 
-[**Return to top**](#top) |  [**Back to main**](./README.md)
+[**Return to top**](#top)
 
 ---
 
@@ -459,4 +478,4 @@ Source: [Concepts - Access and identity in Azure Kubernetes Services (AKS) - Azu
 
 <br>
 
-[**Back to main**](./README.md)
+
