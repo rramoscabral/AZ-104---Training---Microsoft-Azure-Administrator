@@ -3,15 +3,15 @@
 <br/>
 
 
-# AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution  
+# AZ-104: Microsoft Azure Administratorn  
 
-Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution .
+Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft CourseAZ-104: Microsoft Azure Administrator.
 
 <br/>
 
 ## Description
 
-This course provides students with the fundamental knowledge and skillsto build AI infused applications that leverage Azure AI Services, Azure AI Search, and Azure OpenAI.
+This course provides students with a comprehensive overview of how to implement, manage, and monitor an organization’s Microsoft Azure environment.
 
 ---
 

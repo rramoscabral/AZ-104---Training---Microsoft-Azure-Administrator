@@ -37,9 +37,10 @@ Earn your credential by passing an online, interactive, lab-based assessment tha
 
 | Applied Skills  | Overview | 
 | --- | --- | 
-| - | - | 
-
-
+| [Configure secure access to your workloads using Azure networking](https://learn.microsoft.com/credentials/applied-skills/configure-secure-workloads-use-azure-virtual-networking/) | Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills.  |
+| [Secure storage for Azure Files and Azure Blob Storage](https://learn.microsoft.com/credentials/applied-skills/secure-storage-azure-files-azure-blob-storage/) | Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills.  |
+| [Deploy and manage Microsoft Azure Arc–enabled servers](https://learn.microsoft.com/credentials/applied-skills/deploy-and-manage-microsoft-azure-arc-enabled-servers/) | Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills. |
+| [Deploy and configure Azure Monitor](https://learn.microsoft.com/credentials/applied-skills/deploy-and-configure-azure-monitor/) | Validate your technical skills and open doors to new possibilities of advancement with Microsoft Applied Skills. |
 
 <br/>
 

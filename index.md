@@ -6,31 +6,21 @@ nav_order: 1
 
 # Companion Material and Resources
 
-Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Course 'AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'.
+Companion Material and Resources for Class Delivery by [**Ricardo Cabral**](https://www.rramoscabral.com) for Microsoft Course 'AZ-104: Microsoft Azure Administrator'.
 
-This course provides students with a comprehensive overview of how to create AI solutions using Microsoft Azure. It is intended for software developers wanting to build AI infused applications that leverage Azure AI Services, Azure AI Search, and Azure OpenAI. The course will use C# or Python as the programming language.
-
-The Course **AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution** is developed by the **Microsoft Learning**.
-
-<br/>
+This course provides students with a comprehensive overview of how to implement, manage, and monitor an organization’s Microsoft Azure environment.
 
 
 |  Level        | Product                   | Role                  | Course Duration  |  Exam     | Related certifications | 
 | :---:         | :---:                     | :---:                 | :---:            | :---:     |  :---: |
-| Intermediate  | Azure                     | AI Engineer           | 4 days           | [Azure AI Engineer Associate](./docs/04ExamCertification.md)  |  Azure AI Engineer Associate |
+| Intermediate  | Azure                     | Administrator           | 4 days           | [AZ-104: Microsoft Azure Administrator](./docs/04ExamCertification.md)  |  Azure Administrator Associate |
+
 
 <br/>
 
 <!-- Learning objectives -->
 **Learning objectives**
-This course is intended to provide hands-on experience and practical knowledge, making it suitable for anyone looking to enhance their skills in Azure AI solutions.  
-
-This course provides students the skills to build, manage, and deploy AI solutions using various Azure AI services and tools.
-
-In this course students will learn how to develop solution using Azure AI Services. Topics covered include natural language understanding, computer vision, document intelligence and generative AI. Specifically, students will learn how to:
-- Provision Azure resources and use the service studios
-- Train and customize various Azure AI models
-- Use APIs and SDKs to consume models from client applications
+This course teaches IT Professionals how to manage their Azure subscriptions, secure identities, administer the infrastructure, configure virtual networking, connect Azure and on-premises sites, manage network traffic, implement storage solutions, create and scale virtual machines, implement web apps and containers, back up and share data, and monitor your solution.
 
 
 
