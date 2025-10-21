@@ -21,10 +21,34 @@ has_children: false
 
 <br/>
 
-<!-- ## Learning Path 1: -->
+## Learning Path 4: Administer Virtual Networking
 
 <!-- Demonstrations -->
 
+
+**Create a virtual network with PowerShell**
+
+```powershell
+New-AzResourceGroup -Name AzureVNET -Location = 'eastus2'
+
+$vnet = @{
+    Name = 'vnet-2'
+    ResourceGroupName = 'AzureVNET'
+    Location = 'eastus2'
+    AddressPrefix = '20.0.0.0/16'
+}
+
+$virtualNetwork = New-AzVirtualNetwork @vnet
+
+$subnet = @{
+    Name = 'subnet-1'
+    VirtualNetwork = $virtualNetwork
+    AddressPrefix = '20.0.0.0/24'
+}
+$subnetConfig = Add-AzVirtualNetworkSubnetConfig @subnet
+
+$virtualNetwork | Set-AzVirtualNetwork
+```
 
 
 <br/>

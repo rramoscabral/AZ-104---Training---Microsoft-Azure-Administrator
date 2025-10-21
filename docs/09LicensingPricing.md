@@ -9,6 +9,8 @@ has_children: false
 {: .no_toc }
 
 
+- [Microsoft Entra Plans & Pricing](https://www.microsoft.com/security/business/microsoft-entra-pricing)
+
 
 - [Legacy pricing information](https://download.microsoft.com/download/a/b/5/ab542db1-f1a7-4f92-b615-2e2eaccb64ea/Azure-OpenAI-Legacy-Pricing.pdf)
 
